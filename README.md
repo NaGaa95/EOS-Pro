@@ -21,7 +21,7 @@ There will be no major improvements over the current HOC, newer features will on
   * Up to 3200+ MHz RAM
   * Multiple RAM Freqs
 
-- Sys-clk-pro 2.0.3 : 
+- Sys-clk-pro 2.0.4 : 
   * Uncapped Clocks
   * Auto CPU Boost
   * Tsensor - CPU/GPU/PLL Temps
@@ -29,12 +29,12 @@ There will be no major improvements over the current HOC, newer features will on
   * RAM BW Reading
   * Build on latest [libultrahand](https://github.com/ppkantorski/libultrahand)
 
-- Status Monitor Pro 1.3.3+ :
+- Status Monitor Pro 1.3.4 :
   * CPU/GPU/PLL Temperature / RAM BW reading from sys-clk
   * Build on latest [libultrahand](https://github.com/ppkantorski/libultrahand)
   
 
-- EOS-Pro Toolkit 1.8.1 :
+- EOS-Pro Toolkit 1.8.2 :
   * Based on EOS OC Toolkit
 
 
